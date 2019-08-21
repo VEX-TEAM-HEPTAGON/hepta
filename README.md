@@ -13,5 +13,5 @@ V5 kitinin içerisindeki parçalar kullanılarak VEX Robotics Competition 2019-2
 ![Repo List](resimler/Controller1.jpeg)
 
 ### Hepta'nın Otonomu:
-
+![Repo List](resimler/otonom.jpeg)
 
