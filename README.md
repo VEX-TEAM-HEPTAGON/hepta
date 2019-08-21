@@ -13,5 +13,8 @@ V5 kitinin içerisindeki parçalar kullanılarak VEX Robotics Competition 2019-2
 ![Repo List](resimler/Controller1.jpeg)
 
 ### Hepta'nın Otonomu:
+Kodun dilinden çok algoritmanın önemli olduğunu bildiğimizden otonomu programlamaya planlama ile başladık. Bu planlamada algoritmanın adım adım nasıl bir yol izleyeceğini sahayı ve robotun teknik yapısını ele alarak belirledik. Sahanın içinde robotun izleyeceği yolun uzunluğunun yanı sıra robotun tekerleğinin çevresinin değerlerini kullanarak gerekli hesaplamalarımızı yaptık. İki farklı ittifak için ikişer tane olmak üzere dört farklı otonom kodu hazırladık. Beyinin sekiz farklı kodu hafızasında barındırması özelliğini göz önünde bulundurarak bu dört farklı otonom kodumuzu dört farklı yarışma kodu olarak beyine aktardık. 
+
+
 ![Repo List](resimler/otonom.jpeg)
 
